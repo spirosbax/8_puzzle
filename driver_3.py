@@ -68,8 +68,6 @@ def greetings(board):
     time.sleep(3)
     print("You can move the tile with the arrow buttons")
     time.sleep(3)
-    print("Type the direction you want to move to and press enter to do so.")
-    time.sleep(3)
     print("I will now shuffle the board.")
     time.sleep(3)
     print("One more thing before the game begins, type 'god' anytime for GOD mode.")
