@@ -11,7 +11,7 @@ dict = {UP:"Up",DOWN:"Down",RIGHT:"Right",LEFT:"Left",QUIT:"quit",GOD:"god"}
 def gameMode():
     """greet the player, shuffle and print the initial board"""
     board = Board()
-    # greetings(board)
+    greetings(board)
     board.shuffle()
     board.print_ascii()
 
