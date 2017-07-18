@@ -33,7 +33,7 @@ sudo apt-get install git
 ```
 In order to download the repository you need to
 ```sh
-git clone [link to this repository]
+git clone https://github.com/spirosbax/8_puzzle.git
 ```
 this will create a directory called "8_puzzle" containing the repository files, then do 
 ```sh
