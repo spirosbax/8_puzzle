@@ -10,7 +10,7 @@ The solver uses A* search to find the shortest path to the goal in minimum time.
 To assign a heuristic value to a Node I used the Manhattan distance of that Node from the goal plus the path cost from the starting state to that Node.
 
 ### Installation
-The program requires python 3.5 and is currenctly compatible with Unix systems.
+The program requires python 3.5 and is currenctly compatible with Unix systems and Bash on windows 10
 For simplicity the installation and download instructions will use the Debian (and derivatives like Ubuntu) package manager "aptitute" (apt-get) but feel free to replace it with your distribution's package manager.
 The following lines should install python3.5 on your computer, but results may vary depending on your distribution, do some research before executing.
 ```sh
