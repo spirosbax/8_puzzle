@@ -59,4 +59,4 @@ Fork the repository and start coding
 
 ### Todo
 
- - Add windows compatibility
+ - Add non-game mode to solve any input board
