@@ -10,8 +10,8 @@ The solver uses A* search to find the shortest path to the goal in minimum time.
 To assign a heuristic value to a Node I used the Manhattan distance of that Node from the goal plus the path cost from the starting state to that Node.
 
 ### Installation
-The program requires python 3.5 and is currenctly compatible with Unix systems
-For simplicity the installation instructions will use the Debian(and derivatives like Ubuntu) package manager "aptitute" (apt-get) but feel free to replace it with your distribution's package manager. 
+The program requires python 3.5 and is currenctly compatible with Unix systems.
+For simplicity the installation and download instructions will use the Debian (and derivatives like Ubuntu) package manager "aptitute" (apt-get) but feel free to replace it with your distribution's package manager.
 The following lines should install python3.5 on your computer, but results may vary depending on your distribution, do some research before executing.
 ```sh
 sudo add-apt-repository ppa:fkrull/deadsnakes
@@ -44,8 +44,8 @@ Then run the file "driver_3.py" with
 ```sh
 python3 driver_3.py
 ```
-#### Downling the .zip file
-go to the top right of the repository and click the download.zip button, then extract the containing folder and "cd" into it,
+#### Downloading the .zip file
+Go to the top right of the repository and click the download.zip button, then extract the containing folder and "cd" into it,
 lastly run the file with 
 ```sh
 python3 driver_3.py
