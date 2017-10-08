@@ -57,6 +57,3 @@ Want to contribute? Great!
 Fork the repository and start coding
 
 
-### Todo
-
- - Add non-game mode to solve any input board
